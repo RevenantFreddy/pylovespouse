@@ -6,7 +6,7 @@ pip install pylovespouse
 ```
 ### Usage
 ```
-import lovespouse as ды
+import lovespouse as ls
 
 ls.SHAKE(1,5) 				#selects mode 1 and vibrates for 5 seconds in the SHAKE class
 ls.SINGLE_SHOCK_MODE1(5)    #selects mode 5 in the SINGLE_SHOCK_MODE1 class
